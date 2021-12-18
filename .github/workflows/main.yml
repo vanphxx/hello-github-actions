@@ -1,6 +1,4 @@
-jobs:
-  build:
-    name: Hello world action
+name: Hello world action
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
